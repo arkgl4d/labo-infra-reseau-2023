@@ -4,7 +4,6 @@ L'ensemble de l'infra peut communiquer en utilisant une partie de routage statiq
 
 R1 - 10.0.1.0
 
-#Gate
 interface FastEthernet0/0
  ip address 10.0.1.254 255.255.255.0
  duplex auto
